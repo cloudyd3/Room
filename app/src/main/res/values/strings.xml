@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Room</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="hint_name">Name…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Name not saved because it is empty.</string>
+    <string name="add_name">Add name</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="autofill_hint_first_name">First Name</string>
+    <string name="autofill_hint_last_name">Last Name</string>
+</resources>
